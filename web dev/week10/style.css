@@ -1,0 +1,142 @@
+
+
+
+body {
+    margin: 0;
+    font-family: "lato"
+}
+
+
+
+.headerContainer{
+  height:96px;
+  width: 1020px;
+  background-color:#303441;
+  color: white;
+}
+
+.logo{
+  margin: 0 10px;
+  padding: 35px;
+  float: left;
+}
+
+.headerNav{
+  padding: 20px;
+  font: "lato";
+  font-weight: bold;
+  height: 100%
+  float: right;
+  text-align: right;
+  margin-right: 10px;
+
+}
+
+
+.slider{
+  text-align:center;
+  background-color:#eb5055;
+  padding:70px;
+  margin: 0px;
+  color: white;
+  font-family: 'lato';
+  float: center;
+}
+
+.slidercontainer{
+  width:1020px;
+  height:598px;
+}
+
+.servicecontainer{
+  width: 1020px;
+  height: 1600px;   /*/supposed to be 503/*/
+  background-color:#f2f2f2; 
+  padding: 5px 5px;
+  color: #666d89;
+}
+
+
+.services{
+  width: 300px;
+  float: left;
+  margin: 36px;
+  padding: 5px;
+  text-align: left;
+  color: #666d89;
+}
+
+
+
+.portfolioContainer{
+  height: 869px;
+  width: 1020px;
+  background-color: #303441;
+  padding: 5px;
+  color: #666d89;
+}
+
+.aboutUsContainer{
+  height: 900px;
+  width: 1020px;
+  background-color: #f2f2f2;
+  padding: 5px;
+  color: #666d89;
+}
+
+.aboutUsPics{
+  padding right: 18px;
+}
+
+.aboutPeople{
+  width: 300px;
+  float: left;
+}
+
+.GetAQuoteContainer{
+  height: 655px;
+  width: 1020px;
+  background-color: #eb5055;
+  color: #f0d1d2;
+}
+
+
+
+.ContactInfoContainer{
+  float: right;
+
+}
+
+.Copyright{
+  height: 79px;
+  width: 1020px;
+  background-color: #303441;
+  color: #484e61;
+}
+
+.MediaIcon.png{
+  right: 400px;
+}
+
+h1{
+  text-align: left;
+  font-weight: black;
+  font-size: 18pt;
+}
+
+h2{
+  text-align: left;
+  font-weight: lighter;
+  font-size: 18pt;
+}
+
+h3{
+  text-align: left;
+  font-weight: black;
+  font-size: 18pt;
+}
+
+p{
+  text-align: left;
+  font-size: 12pt;
+}

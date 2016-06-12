@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+}
+.container {
+	width: 1110px
+	margin: 0 auto;
+	background: pink
+}
+.featured {
+	background: #333;
+	color: white;
+}
+.services {
+	background: pink;
+}
+.service{
+	width: 277px;
+	float: left;
+	text-align: center;
+	padding: 0 25px  0 25px;
+}
+.camera{
+	background: green;
+
+}
+.computer{
+
+}
+.list{
+	list-style: none;
+	padding: 0;
+}
+.list li {
+	width: 270px;
+	height: 220px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	float: left;
+}
+.list li.last {
+	width: 270px;
+	height: 220px;
+	margin-right: 0px;
+	float: left;
+}
+.clearfix:after {
+content: 
+display: table;
+clear: both;
+}
